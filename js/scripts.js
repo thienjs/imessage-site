@@ -22,12 +22,11 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Thien',
+    'Hello, I\'m Thien 👋',
     'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hi@thien.me">hi@thien.me</a>',
-    '<a target="_blank" href="https://twitter.com/thientxt">twitter.com/thientxt</a><br><a target="_blank" href="https://discord.gg/thien4420">discord: thien#4420</a><br><a target="_blank" href="https://github.com/thienjs">github.com/thienjs</a><br><a target="_blank" href="https://instagram.com/thienjpg">instagram.com/thienjpg</a>',
-    '<a target="_blank" href="https://thien.gg">thien.gg</a><br><a target="_blank" href="https://thien.lol">thien.lol</a><br><a target="_blank" href="https://thien.in">thien.in</a><br><a target="_blank" href="https://thien.me">thien.me</a>',
+    'You can contact me at <a href="mailto:hi@thien.me">hi@thien.me</a>',
+    'My socials:<br><a target="_blank" href="https://twitter.com/thientxt">twitter.com/thientxt</a><br><a target="_blank" href="https://discord.gg/thien4420">discord: thien#4420</a><br><a target="_blank" href="https://github.com/thienjs">github.com/thienjs</a><br><a target="_blank" href="https://instagram.com/thienjpg">instagram.com/thienjpg</a>',
+    'My other sites:<br><a target="_blank" href="https://thien.gg">thien.gg</a><br><a target="_blank" href="https://thien.lol">thien.lol</a><br><a target="_blank" href="https://thien.in">thien.in</a><br><a target="_blank" href="https://thien.me">thien.me</a>',
     getCurrentTime(),
     '✌️ T.'
   ]
